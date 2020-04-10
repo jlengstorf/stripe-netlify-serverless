@@ -1,0 +1,8 @@
+# Sensitive env variables
+.env
+
+# Dependencies
+node_modules
+
+# Local Netlify folder
+.netlify
